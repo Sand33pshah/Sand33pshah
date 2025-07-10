@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Sandip Shah
 
 **Data Science Enthusiast | Ex-Software Developer | Analytics Storyteller**
@@ -7,10 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/sandipkumarsah)](https://linkedin.com/in/sandipkumarsah)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&link=https://github.com/Sand33pshah)](https://github.com/Sand33pshah)
 [![Gmail](https://img.shields.io/badge/Email-sandeepshah980@gmail.com-red?style=flat-square&logo=gmail)](mailto:sandeepshah980@gmail.com)
-
----
-
-<img src="profile-visual.png" alt="Data Science Visual" width="60%" />
 
 ---
 
@@ -34,18 +28,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project                              | Demo/Visual                                      | What I Did                        |
-|---------------------------------------|--------------------------------------------------|-----------------------------------|
-| Indian Traffic Violation Analysis     | ![Traffic](traffic-demo.gif)                     | Pattern mining, prediction, EDA   |
-| World Layoff Tracker                  | ![Layoff](layoff-dashboard.png)                  | Automation, dashboards, NLP       |
-| Resource Allocation Optimization      | ![Resource](resource-visual.png)                 | ML modeling, cost savings         |
-
-*See full code & write-ups in pinned repos below!*
-
----
-
 ## 📈 Achievements
 
 - 🥇 1st place, Science Exhibition (Regional)
@@ -57,9 +39,6 @@
 ## 📬 Let’s Connect
 
 I’m open to data science roles—let’s build something impactful!
-
-</div>
-
 <!-- 
 Tips:
 - Replace image links (profile-visual.png, traffic-demo.gif, etc.) with your own visuals/screenshots uploaded to this repo.
