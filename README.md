@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Sandip Shah
 
-**Data Science Enthusiast | Ex-Software Developer | Analytics Storyteller**
+**Data Science Enthusiast | Software Developer | Analytics Storyteller**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/sandipkumarsah)](https://linkedin.com/in/sandipkumarsah)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&link=https://github.com/Sand33pshah)](https://github.com/Sand33pshah)
 [![Gmail](https://img.shields.io/badge/Email-sandeepshah980@gmail.com-red?style=flat-square&logo=gmail)](mailto:sandeepshah980@gmail.com)
 
 ---
@@ -30,7 +29,8 @@
 
 ## 📈 Achievements
 
-- 🥇 1st place, Science Exhibition (Regional)
+- 🥇 1st place, Science Exhibition 2017 (Projects: Vacuum Cleaner, Water Level Indicator, Remote Control Car) (Regional)
+- 🥇 3rd place, Machine Learning Hackathon (Internshala)
 - 📜 Certified in Machine Learning (Inter-India Training, Google IT Support)
 - 🛠️ Delivered production-ready analytics to real clients
 
