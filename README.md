@@ -2,7 +2,7 @@
 
 **Data Science Enthusiast | Software Developer | Analytics Storyteller**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/sandipkumarsah)](https://linkedin.com/in/sandipkumarsah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/sandipkumarsah)](https://www.linkedin.com/in/sandipkumarshah/)
 [![Gmail](https://img.shields.io/badge/Email-sandeepshah980@gmail.com-red?style=flat-square&logo=gmail)](mailto:sandeepshah980@gmail.com)
 
 ---
